@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_button">Добавить в список</string>
+    <string name="enter_name">Введите название товара</string>
+    <string name="edit_button">Редактировать элемент</string>
+    <string name="empty_product">Продукт не может быть пустым</string>
+</resources>
